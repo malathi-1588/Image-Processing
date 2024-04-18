@@ -31,3 +31,21 @@ Threshold setting using the histogram of brightness values is a common image pro
         Like LPIPS, SSIM correlates better with human perception compared to PSNR.
         SSIM is computationally more expensive than PSNR but less so than LPIPS.
         It's widely used in tasks like image quality assessment, image compression, and image restoration.
+
+https://github.com/riya2025/Image-and-Video-Processing-Lab
+
+https://github.com/RP-1106/IVP-ImageProcessing
+
+Image enhancement vs image restoration 
+Types of equalisations
+Why relu is used
+How can u do edge detection with cnn
+Gamma correction
+Why do you convert to grayscale
+
+1. Why relu function is used? Ans: Avoid Exploding gradient 
+2. How will u detect edges using CNN? Ans: Padding 
+3. Types of Equalisation
+4. Gamma function 
+5. Denoising n Deblurring 
+6. Activation function
