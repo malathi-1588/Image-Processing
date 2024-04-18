@@ -43,6 +43,8 @@ How can u do edge detection with cnn
 Gamma correction
 Why do you convert to grayscale
 
+https://docs.google.com/document/d/1rRc8EqCEWpcaUhXVdwjGr4cz5L_2YbBXrFB5RPaB1hc/edit
+
 1. Why relu function is used? Ans: Avoid Exploding gradient 
 2. How will u detect edges using CNN? Ans: Padding 
 3. Types of Equalisation
